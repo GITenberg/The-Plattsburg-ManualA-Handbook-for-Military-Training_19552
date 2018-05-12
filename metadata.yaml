@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '8743'
     url: http://www.gutenberg.org/2009/agents/8743
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19552#The-Plattsburg-ManualA-Handbook-for-Military-Training
 gutenberg_bookshelf:
 - Bestsellers, American, 1895-1923
 - Reference
