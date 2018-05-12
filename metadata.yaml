@@ -1,0 +1,36 @@
+_repo: The-Plattsburg-ManualA-Handbook-for-Military-Training_19552
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Garey, E. B. (Enoch Barton)
+    alias: Garey, Enoch Barton
+    birthdate: 1883
+    deathdate: 1957
+    gutenberg_agent_id: '8744'
+    url: http://www.gutenberg.org/2009/agents/8744
+  - agent_name: Ellis, O. O. (Olin Oglesby)
+    alias: Ellis, Olin Oglesby
+    birthdate: 1886
+    gutenberg_agent_id: '8743'
+    url: http://www.gutenberg.org/2009/agents/8743
+description: ''
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- Reference
+gutenberg_issued: '2006-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19552'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'U'
+- !lcsh 'Military training camps -- United States'
+- !lcsh 'United States. Army -- Handbooks, manuals, etc.'
+title: 'The Plattsburg Manual: A Handbook for Military Training'
+url: http://www.gutenberg.org/ebooks/19552
